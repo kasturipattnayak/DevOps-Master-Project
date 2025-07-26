@@ -384,9 +384,9 @@ DevSecOps-Masters-Project/
 
 ## 🙋‍♂️ Author
 
-**Ayush Dash**
+**Kasturi Pattnayak**
 
-* 🔗 [LinkedIn](https://www.linkedin.com/in/ayush-dash-214249253)
+
 
 ---
 
